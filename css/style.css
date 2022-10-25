@@ -1,6 +1,7 @@
-body{
+body {
     margin: 0;
     padding: 0;
+    color: white;
     background-image: url(https://i.ibb.co/7ys15Nd/background.jpg);
     background-size: cover;
     background-position: right;
@@ -8,12 +9,12 @@ body{
     height: 100vh;
 }
 
-.navbar img{
+.navbar img {
     width: 50px;
     height: 50;
 }
 
-.off{ 
+.off {
     background-color: gray;
     pointer-events: none;
 }
