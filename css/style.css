@@ -18,3 +18,11 @@ body {
     background-color: gray;
     pointer-events: none;
 }
+
+.navbar{
+    z-index: 3;
+}
+
+.container{
+    z-index: 2;
+}
